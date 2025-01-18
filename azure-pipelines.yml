@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: 'Default'  # The name of your self-hosted agent pool
+  name: 'LIGIYA'  # The name of your self-hosted agent pool
 
 steps:
 - task: Maven@3
